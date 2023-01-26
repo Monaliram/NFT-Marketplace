@@ -1,0 +1,24 @@
+{
+  "name": "nft-truffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/test-environment": "^0.1.9",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "@truffle/hdwallet-provider": "^2.0.17",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.1",
+    "ganache-cli": "^6.0.3",
+    "hardhat": "^2.8.2",
+    "mocha": "^4.0.1",
+    "web3": "^1.0.0-beta.37"
+  }
+}
