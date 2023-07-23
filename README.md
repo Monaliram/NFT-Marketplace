@@ -7,4 +7,5 @@ The ERC721 token and URI storage are handled by the OpenZeppelin libraries, and 
 ## Functions
 
 The contract includes several functions for buying and selling NFTs, including listNft(), directBuy(), acceptOffer(), withdrawOffer(), resellNft(), bid(), withdrawBidRefunds() and claimBid(). These functions allow users to list an NFT for sale, purchase an NFT, resell an NFT, and offer a listed NFT, Bid a listed NFT respectively. 
+
 Overall, this contract provides a simple implementation of an NFT marketplace where users can buy and sell NFTs
